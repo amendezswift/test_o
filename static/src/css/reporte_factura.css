@@ -1,0 +1,55 @@
+.tabla-contenido {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 3.5rem;
+  border: none;
+}
+
+.tabla-elemento {
+  background: #ffffff;
+  border: none;
+}
+
+.strong_block {
+  display: block;
+}
+
+.footer-text {
+  font-size: 0.7rem;
+  display: block;
+}
+
+.fel-section {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.fel-title {
+  margin-bottom: 4px;
+  font-size: 14pt;
+}
+.fel-subtitle {
+  margin-bottom: 8px;
+  font-size: 10pt;
+  color: #555;
+}
+.fel-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+}
+.fel-item strong {
+  display: block;
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+.frases-section {
+  padding: 6px;
+  border-left: 3px solid #007bff;
+}
+.complementos-section {
+  margin-top: 12px;
+  padding: 6px;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
