@@ -15,10 +15,6 @@
     "assets": {"web.assets_qweb": ["fel/static/src/css/reporte_factura.css"]},
     "data": [
         "security/ir.model.access.csv",
-        # "data/fel_create_accounts.xml",
-        # "data/fel_create_taxes_group.xml",
-        # "data/fel_create_taxes.xml",
-        # "data/fel_create_journals.xml",
         "report/report_invoice_document_swift.xml",
         "views/frases_fel_vista_main.xml",
         "views/res_company_company_view.xml",
